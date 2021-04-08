@@ -1,0 +1,3 @@
+# PowerShell
+This repo will contain my PowerShell scripts, these scripts, are more snippets than scripts...
+But im sure that will be useful for someone in any way.
