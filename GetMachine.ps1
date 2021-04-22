@@ -16,7 +16,7 @@
 } 
 else {
     Write-Host "Please install PowerCli: 
-        Install-Module -Name Posh-SSH
+        Install-Module -Name VMware.PowerCLI
     And retry again."
 }
 
