@@ -1,4 +1,4 @@
 ﻿clear
 netsh wlan show profiles
-$net = Read-Host "Inserta el nombre de la red de la que quieras su contraseña"
+$net = Read-Host "Insert the network name to get the key"
 netsh wlan show profile name=$net key=clear
